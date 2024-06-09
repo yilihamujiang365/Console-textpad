@@ -1,0 +1,5 @@
+/home/yilihamujiang/桌面/C#/Console textpad/Console textpad/bin/Release/net8.0/publish/Console textpad
+/home/yilihamujiang/桌面/C#/Console textpad/Console textpad/bin/Release/net8.0/publish/Console textpad.dll
+/home/yilihamujiang/桌面/C#/Console textpad/Console textpad/bin/Release/net8.0/publish/Console textpad.deps.json
+/home/yilihamujiang/桌面/C#/Console textpad/Console textpad/bin/Release/net8.0/publish/Console textpad.runtimeconfig.json
+/home/yilihamujiang/桌面/C#/Console textpad/Console textpad/bin/Release/net8.0/publish/Console textpad.pdb
