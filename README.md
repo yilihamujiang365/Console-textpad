@@ -11,10 +11,10 @@
 
 This is a console file editor developed by a person, which currently only supports functions such as text input and saving 💾, and will be updated in the future
 The programming language of this software is: C#<br>
-Supported operating systems are<br>:
+Supported operating systems are:<br>
 1. Microsoft Windows (including ARM).<br>
-2. Apple Mac (including ARM<br>).
-3. Linux (including ARM).<br>
+2. Apple Mac (including ARM)<br>
+3. Linux (including ARM)<br>
 
 The programming tools 🛠️ are: Microsoft visual studio code
 Operating system: ubuntu 24.4 LTS
